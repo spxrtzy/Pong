@@ -9,3 +9,5 @@ To compile the game into an unix exec or EXE you can check the official [raylib]
 `cc main.c ``pkg-config --libs --cflags raylib`` -o game && ./game`
 
 Hope You Enjoy!
+
+Big Thanks to [Jones](https://www.youtube.com/channel/UCIRziiA3siszakUE_I1UOkA) for making such good tutorials <3
